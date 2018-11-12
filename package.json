@@ -1,0 +1,25 @@
+{
+  "name": "formats",
+  "version": "1.0.0",
+  "description": "date formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisriver/formats.git"
+  },
+  "keywords": [
+    "date",
+    "format",
+    "formats",
+    "time"
+  ],
+  "author": "Jared",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisriver/formats/issues"
+  },
+  "homepage": "https://github.com/aisriver/formats#readme"
+}
