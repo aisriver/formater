@@ -6,6 +6,8 @@
 - npm install -g cnpm --registry=https://registry.npm.taobao.org
 - cnpm install formater --save
 
+- 或者使用 yarn add formater
+
 ## step 2
 最好在全局下引用
 <br/>
@@ -15,7 +17,7 @@ import 'formater';
 
 <pre>
 new Date().formater('yyyy-mm-dd hh:mm:ss');
-2018-11 26:16
+2018-11-12 14:26:52
 
 new Date().formater('yyyy年mm月dd日 hh时mm分ss秒');
 2018年11月12日 14时26分52秒
