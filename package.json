@@ -1,25 +1,25 @@
 {
-  "name": "formats",
+  "name": "formater",
   "version": "1.0.0",
-  "description": "date formats",
+  "description": "date formater",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aisriver/formats.git"
+    "url": "git+https://github.com/aisriver/formater.git"
   },
   "keywords": [
     "date",
     "format",
-    "formats",
+    "formater",
     "time"
   ],
   "author": "Jared",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aisriver/formats/issues"
+    "url": "https://github.com/aisriver/formater/issues"
   },
-  "homepage": "https://github.com/aisriver/formats#readme"
+  "homepage": "https://github.com/aisriver/formater#readme"
 }

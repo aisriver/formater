@@ -1,7 +1,7 @@
 ; (function () {
     "use strict"
     var _global;
-    Date.prototype.formats = function (str) {
+    Date.prototype.formater = function (str) {
         if (str && typeof str === 'string') {
             function lessThanTen(n) {
                 if (Number(n) < 10) {
