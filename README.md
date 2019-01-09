@@ -24,6 +24,9 @@ new Date().formater('yyyy年mm月dd日 hh时mm分ss秒');
 
 目前仅支持年、月、日、时、分、秒，
 季度与毫秒暂不支持
+
+有什么好的想法，欢迎一起成长交流
+WeChat：mrliaojun
 </pre>
 
 ### github
